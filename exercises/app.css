@@ -1,1 +1,8 @@
-#wrong{color: red}
+#wrong {
+    color: red;
+}
+
+.exercise {
+    background-image: url(task.jpg);
+    background-color: #7fff00;
+}
