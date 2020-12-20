@@ -1,4 +1,5 @@
 function check() {
+    document.getElementById("enter").disabled=true
     var val = document.getElementById('input-answer').value;
     if (val == 90) {
         document.getElementById("correct").style = "display:block"
