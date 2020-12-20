@@ -6,3 +6,8 @@
     background-image: url(task.jpg);
     background-color: #7fff00;
 }
+
+.task {
+    color: darkgreen;
+    background-color: #ef7eff
+}
